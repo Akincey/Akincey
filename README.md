@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andre, an <a href="https://linkedin.com/in/AndreKincey">IT Professional</a>☺</h1>
+<h1>Hi, I'm Andre, an <a href="https://linkedin.com/in/AndreKincey">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
